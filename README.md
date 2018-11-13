@@ -6,7 +6,7 @@
 
 ## Description
 
-_A C# application that will guess a user's number between 1-100 until it guesses correctly._
+_A C# application that has 2 games. The first game will guess a user's number between 1-100 until it guesses correctly. In the second game the computer will pick a number and the user has to guess it._
 
 ## Setup/Installation Requirements
 
